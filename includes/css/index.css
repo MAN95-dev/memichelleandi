@@ -9,9 +9,6 @@ body {
 /* Navbar styling */
 .logo {
     font-family: 'DM Serif Display', serif;
-    background: -webkit-linear-gradient(#E2B7B9, #92A3A8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     color: #000;
 }
 
@@ -68,7 +65,9 @@ a.nav-link {
 
 .btn-orange {
     width: 150px;
+    height: 50px;
     color: #F9943B;
     background-color: #fff;
     border-radius: 5px;
+
 }
