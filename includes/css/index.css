@@ -65,3 +65,10 @@ a.nav-link {
     height: 400px;
     width: 100%;
 }
+
+.btn-orange {
+    width: 150px;
+    color: #F9943B;
+    background-color: #fff;
+    border-radius: 5px;
+}
