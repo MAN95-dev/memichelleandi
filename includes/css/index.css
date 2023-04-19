@@ -69,5 +69,7 @@ a.nav-link {
     color: #F9943B;
     background-color: #fff;
     border-radius: 5px;
+    text-transform: none;
+    font-weight: 500;
 
 }
