@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     color: rgba(19, 20, 26, .6);
     line-height: 1.5;
-    background-color: #333;
+    background-color: #dcdcdc;
 }
 
 /* Navbar styling */
@@ -48,4 +48,14 @@ a.nav-link {
     height: auto;
     background-color: #F9943B;
     padding: 50px 50px 50px;
+}
+
+.sub-header {
+    font-family: 'DM Serif Display', serif;
+    color: #4f4f4f;
+    font-size: 16px;
+}
+
+.sub-text {
+    font-size: 14px;
 }
