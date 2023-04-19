@@ -9,7 +9,7 @@ body {
 /* Navbar styling */
 .logo {
     font-family: 'DM Serif Display', serif;
-    color: #4f4f4f;
+    background: -webkit-linear-gradient(#E2B7B9, #92A3A8);
 }
 
 nav {
