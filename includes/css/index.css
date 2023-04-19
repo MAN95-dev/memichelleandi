@@ -37,3 +37,8 @@ a.nav-link {
    line-height: 1.5;
    color: #4f4f4f;
 }
+
+.header {
+    font-family: 'DM Serif Display', serif;
+    color: #4f4f4f;
+}
