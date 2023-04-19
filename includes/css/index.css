@@ -45,7 +45,7 @@ a.nav-link {
 
 .orange-block {
     width: 100%;
-    height: auto;
+    height: 400px;
     background-color: #F9943B;
     padding: 50px 50px 50px;
 }
@@ -58,4 +58,9 @@ a.nav-link {
 
 .sub-text {
     font-size: 16px;
+}
+
+.project-img {
+    height: 400px;
+    width: auto;
 }
