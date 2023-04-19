@@ -12,6 +12,7 @@ body {
     background: -webkit-linear-gradient(#E2B7B9, #92A3A8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: black;
 }
 
 nav {
