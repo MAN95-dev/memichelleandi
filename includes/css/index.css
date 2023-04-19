@@ -42,3 +42,10 @@ a.nav-link {
     font-family: 'DM Serif Display', serif;
     color: #4f4f4f;
 }
+
+.orange-block {
+    width: 100%;
+    height: auto;
+    background-color: #F9943B;
+    padding: 50px 50px 50px;
+}
