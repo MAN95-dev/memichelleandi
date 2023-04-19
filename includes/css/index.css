@@ -1,3 +1,8 @@
+body {
+    font-family: 'DM Serif Display', serif;
+    color: #4f4f4f;
+}
+
 /* Navbar styling */
 .logo {
     font-family: 'DM Serif Display', serif;
