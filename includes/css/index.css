@@ -62,6 +62,6 @@ a.nav-link {
 }
 
 .project-img {
-    height: 500px;
+    height: auto;
     width: 100%;
 }
