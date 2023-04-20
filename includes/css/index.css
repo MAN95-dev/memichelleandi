@@ -111,7 +111,6 @@ a.nav-link {
 #myVideo {
     position: fixed;
     right: 0;
-    bottom: 0;
     min-width: 100%;
-    min-height: 70vh;
+    height: 70vh;
   }
