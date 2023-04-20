@@ -44,7 +44,7 @@ a.nav-link {
 .orange-block {
     width: 100%;
     height: 400px;
-    background-color: #F9943B;
+    background-color: #E8D3DE;
     padding: 50px 50px 50px;
 }
 
@@ -66,7 +66,7 @@ a.nav-link {
 .btn-orange {
     width: 150px;
     height: 50px;
-    color: #F9943B;
+    color: #E8D3DE;
     background-color: #fff;
     border-radius: 5px;
     text-transform: none;
