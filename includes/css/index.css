@@ -38,6 +38,7 @@ a.nav-link {
    font-family: 'DM Serif Display', serif;
    line-height: 1.5;
    color: #4f4f4f;
+   z-index: 5;
 }
 
 .header {
