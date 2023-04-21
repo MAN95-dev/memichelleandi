@@ -33,7 +33,15 @@ a.nav-link {
 }
 
 .projects a:hover {
+    color: #81C3C9;
+}
+
+.about a:hover {
     color: #E6C2BF;
+}
+
+.resume a:hover {
+    color: #9FC7AA;
 }
 /* End of navbar styling */
 
