@@ -31,6 +31,10 @@ a.nav-link {
     margin-left: 30px; 
     color: #4f4f4f;
 }
+
+.projects a:hover {
+    color: #E6C2BF;
+}
 /* End of navbar styling */
 
 .intro-header {
