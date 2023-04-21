@@ -8,11 +8,12 @@ body {
 
 /* Navbar styling */
 .navbar {
-    box-shadow: none;;
+    box-shadow: none;
+    align-items: center;
 }
 
 .logo {
-    height: 10px;
+    height: auto;
     width: 100%;
 }
 
