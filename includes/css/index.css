@@ -132,3 +132,7 @@ a.nav-link {
   .footer-content {
     align-items: center;
   }
+
+.fab.fa-instagram.fa-lg:hover {
+    color: #E6C2BF;
+}
