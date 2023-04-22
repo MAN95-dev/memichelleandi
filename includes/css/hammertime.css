@@ -72,3 +72,8 @@ a.nav-link {
 .about-row {
     align-items: center;
 }
+
+.problem-padding, 
+.goal-padding {
+    padding: 0px 40px 0px;
+}
