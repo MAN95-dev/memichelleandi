@@ -82,3 +82,7 @@ a.nav-link {
     width: 60%;
     height: auto;
 }
+
+.footer-content {
+    align-items: center;
+}
