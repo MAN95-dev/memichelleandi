@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: rgba(19, 20, 26, .6);
+    line-height: 1.5;
+    background-color: #FFFAF1;
+}
+
+/* Navbar styling */
+.navbar {
+    align-items: center;
+}
+
+.logo {
+    height: auto;
+    width: 100%;
+}
+
+nav {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+
+.nav-item {
+    margin-left: 10px;
+  }  
+
+a.nav-link {
+    margin-left: 30px; 
+    color: #4f4f4f;
+}
+
+.projects a:hover {
+    color: #81C3C9;
+}
+
+.about a:hover {
+    color: #E6C2BF;
+}
+
+.resume a:hover {
+    color: #9FC7AA;
+}
+/* End of navbar styling */
+
+.contributions {
+    padding: 60px 60px 60px;
+}
+
+.pink-block {
+    width: 100%;
+    height: 650px;
+    background-color: #E6C2BF;
+    padding: 60px 60px 60px;
+}
+
+.header {
+    font-family: 'DM Serif Display', serif;
+    color: #4f4f4f;
+    font-size: 30px;
+}
+
+.process-header {
+    margin-top: 50px;
+    font-family: 'DM Serif Display', serif;
+    color: #4f4f4f;
+    font-size: 40px;
+}
+
+.about-row {
+    align-items: center;
+}
+
+.problem-padding, 
+.goal-padding {
+    padding: 0px 60px 0px;
+}
+
+.userflow {
+    width: 60%;
+    height: auto;
+}
+
+.footer-content {
+    align-items: center;
+}
