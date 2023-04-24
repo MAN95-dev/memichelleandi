@@ -174,4 +174,9 @@ a.nav-link {
         color: #4f4f4f;
         font-size: 40px;
      }
+
+     .project-img {
+        height: auto;
+        width: 100%;
+    }
 }
