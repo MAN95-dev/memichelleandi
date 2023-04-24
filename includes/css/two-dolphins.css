@@ -47,7 +47,6 @@ a.nav-link {
 
 .contributions {
     padding: 60px 60px 60px;
-    margin-top: 80px;
 }
 
 .blue-block {
@@ -110,5 +109,9 @@ a.nav-link {
         color: #4f4f4f;
         font-size: 25px;
         line-height: 1.5;
+    }
+
+    .contributions {
+        margin-top: 30px;
     }
 }
