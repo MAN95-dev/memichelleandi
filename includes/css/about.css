@@ -122,11 +122,10 @@ align-items: center;
     }
 
     .intro-header {
-        margin-top: 40px;
+        margin-top: 50px;
         font-family: 'DM Serif Display', serif;
         line-height: 1.5;
         color: #4f4f4f;
-        z-index: 5;
         font-size:40px;
      }
 }
