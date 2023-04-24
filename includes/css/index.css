@@ -140,3 +140,23 @@ a.nav-link {
   .footer-content {
     align-items: center;
   }
+
+/* Media query for smaller screen sizes */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+/* Media query for tablets */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 667px) {
+    .orange-block {
+        width: 100%;
+        height: auto;
+        background-color: #E6C2BF;
+        padding: 50px 50px 50px;
+    }
+}
