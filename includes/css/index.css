@@ -166,4 +166,12 @@ a.nav-link {
         background-color: #81C3C9;
         padding: 50px 50px 50px;
     }
+
+    .intro-header {
+        margin-top: 30px;
+        font-family: 'DM Serif Display', serif;
+        line-height: 1.5;
+        color: #4f4f4f;
+        font-size: 40px;
+     }
 }
