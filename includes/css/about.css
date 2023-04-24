@@ -88,9 +88,14 @@ a.nav-link {
     bottom: 0;
   }
 
-  .footer-content {
-    align-items: center;
-  }
+.footer-content {
+align-items: center;
+}
+
+.profile-img {
+    width: 100%;
+    height: auto;
+}
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
