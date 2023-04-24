@@ -128,18 +128,23 @@ a.nav-link {
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
     max-width: 100%;
-  }
+}
 
 /* Add some content at the bottom of the video/page */
 .content {
     color: #f1f1f1;
     width: 100%;
     bottom: 0;
-  }
+}
 
-  .footer-content {
+.footer-content {
     align-items: center;
-  }
+}
+
+.profile-img {
+    width: 100%;
+    height: auto;
+}
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
