@@ -164,6 +164,10 @@ a.nav-link {
         color: #4f4f4f;
         font-size: 40px;
      }
+
+    .navbar>.container {
+        display: none;
+    }
 }
 
 /* Media query for mobile devices */
