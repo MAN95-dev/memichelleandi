@@ -106,6 +106,7 @@ a.nav-link {
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
     .blue-block {
+        margin-top: 30px;
         width: 100%;
         height: auto;
         background-color: #81C3C9;
@@ -119,6 +120,20 @@ a.nav-link {
     .problem-padding, 
     .goal-padding {
         padding: 0px 30px 0px;
+    }
+
+    .why-padding {
+        padding: 0px 30px 0px;
+    }
+
+    .userflow {
+        width: 100%;
+        height: auto;
+    }
+
+    .prototype {
+        width: 600px; 
+        height: 350px;
     }
 }
 
