@@ -128,4 +128,10 @@ align-items: center;
         color: #4f4f4f;
         font-size:40px;
      }
+
+     .profile-img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 80px;
+    }
 }
