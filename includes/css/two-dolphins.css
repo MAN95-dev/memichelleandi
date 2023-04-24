@@ -105,5 +105,10 @@ a.nav-link {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
-
+    .header {
+        font-family: 'DM Serif Display', serif;
+        color: #4f4f4f;
+        font-size: 25px;
+        line-height: 1.5;
+    }
 }
