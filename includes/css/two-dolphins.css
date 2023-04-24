@@ -155,4 +155,9 @@ a.nav-link {
         width: 400px; 
         height: 250px;
     }
+
+    .logo {
+        height: auto;
+        width: 80%;
+    }
 }
