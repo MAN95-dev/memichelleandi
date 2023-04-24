@@ -152,7 +152,7 @@ a.nav-link {
     }
 
     .prototype {
-        width: 100%; 
-        height: auto;
+        width: 400px; 
+        height: 250px;
     }
 }
