@@ -146,9 +146,12 @@ a.nav-link {
 }
 
 .profile-img {
-    margin-top: 40px;
     width: 100%;
     height: auto;
+}
+
+.profile-row {
+    align-items: center;
 }
 
 .bio {
