@@ -114,4 +114,11 @@ a.nav-link {
     .contributions {
         padding: 30px 30px 30px;
     }
+
+    .blue-block {
+        width: 100%;
+        height: auto;
+        background-color: #81C3C9;
+        padding: 30px 30px 30px;
+    }
 }
