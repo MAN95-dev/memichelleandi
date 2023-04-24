@@ -104,7 +104,16 @@ a.nav-link {
 
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
+    .contributions {
+        padding: 30px 30px 30px;
+    }
 
+    .pink-block {
+        width: 100%;
+        height: auto;
+        background-color: #E6C2BF;
+        padding: 30px 30px 30px;
+    }
 }
 
 /* Media query for mobile devices */
