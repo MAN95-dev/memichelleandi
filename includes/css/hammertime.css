@@ -114,6 +114,11 @@ a.nav-link {
         background-color: #E6C2BF;
         padding: 30px 30px 30px;
     }
+
+    .prototype {
+        width: 500px; 
+        height: 300px;
+    }
 }
 
 /* Media query for mobile devices */
