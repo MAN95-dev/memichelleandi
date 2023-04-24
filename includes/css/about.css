@@ -115,4 +115,13 @@ a.nav-link {
         height: auto;
         width: 100%;
     }
+
+    .intro-header {
+        margin-top: 20px;
+        font-family: 'DM Serif Display', serif;
+        line-height: 1.5;
+        color: #4f4f4f;
+        z-index: 5;
+        font-size:40px;
+     }
 }
