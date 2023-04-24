@@ -120,6 +120,11 @@ a.nav-link {
         height: 300px;
     }
 
+    .userflow {
+        width: 100%;
+        height: auto;
+    }
+
     .problem-padding, 
     .goal-padding {
         padding: 0px 30px 0px;
