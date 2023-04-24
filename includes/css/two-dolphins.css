@@ -121,4 +121,9 @@ a.nav-link {
         background-color: #81C3C9;
         padding: 30px 30px 30px;
     }
+
+    .process-header {
+        margin-top: 50px;
+        font-size: 25px;
+    }
 }
