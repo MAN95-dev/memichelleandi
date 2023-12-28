@@ -90,6 +90,10 @@ a.nav-link {
     color: rgba(255,255,255,.75);
 }
 
+.project-info {
+    padding: 50px 50px 50px;
+}
+
 .project-img {
     height: 500px;
     width: 100%;
