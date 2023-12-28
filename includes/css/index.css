@@ -80,11 +80,11 @@ a.nav-link {
     font-weight: 700;
     color: rgba(255,255,255,.9);
     font-size: 35px;
+    margin-top: 80px;
 }
 
 .sub-text {
     letter-spacing: .2px;
-    margin-bottom: 40px;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     color: rgba(255,255,255,.75);
