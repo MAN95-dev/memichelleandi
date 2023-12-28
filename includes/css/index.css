@@ -101,13 +101,13 @@ a.nav-link {
 }
 
 .btn-blue {
-    width: 200px;
+    width: 250px;
     height: 60px;
     color: rgba(255,255,255,.9);
     background-color: rgba(255,255,255,.3);
     border-radius: 5px;
     text-transform: none;
-    font-size: 18px;
+    font-size: 20px;
     border-radius: 12px;
     padding: 16px 32px;
     transition: opacity .15s;
