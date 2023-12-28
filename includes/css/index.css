@@ -56,7 +56,8 @@ a.nav-link {
 
 .intro-header {
    margin-top: 110px;
-   font-family: 'DM Serif Display', serif;
+   font-family: 'Sora', sans-serif;
+   font-weight: 700;
    line-height: 1.5;
    color: #4f4f4f;
    z-index: 5;
