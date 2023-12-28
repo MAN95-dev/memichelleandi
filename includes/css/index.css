@@ -73,7 +73,7 @@ a.nav-link {
 .sub-header {
     font-family: 'Sora', sans-serif;
     font-weight: 700;
-    color: #fff;
+    color: rgba(255,255,255,.9);
     font-size: 35px;
 }
 
