@@ -103,7 +103,7 @@ a.nav-link {
 .btn-blue {
     width: 200px;
     height: 60px;
-    color: rgba(255,255,255,.75);
+    color: rgba(255,255,255,.9);
     background-color: rgba(255,255,255,.3);
     border-radius: 5px;
     text-transform: none;
