@@ -103,11 +103,11 @@ a.nav-link {
 .btn-blue {
     width: 150px;
     height: 50px;
-    color: #4f4f4f;
-    background-color: #FFFAF1;;
+    color: rgba(255,255,255,.75);
+    background-color: rgba(255,255,255,.3);
     border-radius: 5px;
     text-transform: none;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .blue-block {
