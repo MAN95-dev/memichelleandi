@@ -108,6 +108,10 @@ a.nav-link {
     border-radius: 5px;
     text-transform: none;
     font-size: 18px;
+    border-radius: 12px;
+    padding: 16px 32px;
+    transition: opacity .15s;
+    display: inline-block;
 }
 
 .blue-block {
