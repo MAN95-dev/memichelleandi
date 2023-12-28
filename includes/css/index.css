@@ -6,6 +6,11 @@ body {
     background-color: #FFFAF1;
 }
 
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 /* Navbar styling */
 .navbar {
     align-items: center;
