@@ -67,15 +67,9 @@ a.nav-link {
 }
 
 .header {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Sora', sans-serif;
+    font-weight: 700;
     color: #4f4f4f;
-}
-
-.highlight {
-    background: linear-gradient(120deg, #e4a0a1 0%, #e4a0a1 100%);
-    background-repeat: no-repeat;
-    background-size: 100% 40%;
-    background-position: 0 90%;
 }
 
 .orange-block {
