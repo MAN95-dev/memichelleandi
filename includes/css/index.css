@@ -6,9 +6,11 @@ body {
     background-color: #FFFAF1;
 }
 
+@media screen and (min-width: 1400px) {
 .container {
     padding-left: 100px;
     padding-right: 100px;
+}
 }
 
 /* Navbar styling */
