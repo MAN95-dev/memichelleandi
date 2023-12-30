@@ -68,7 +68,7 @@ a.nav-link {
 .highlight {
     background: linear-gradient(120deg, #f72585 0%, #f72585 100%);
     background-repeat: no-repeat;
-    background-size: 100% 30%;
+    background-size: 100% 20%;
     background-position: 0 100%;
 }
 
@@ -82,7 +82,7 @@ a.nav-link {
 .highlight-3 {
     background: linear-gradient(120deg, #4cc9f0 0%, #4cc9f0 100%);
     background-repeat: no-repeat;
-    background-size: 70% 10%;
+    background-size: 70% 20%;
     background-position: 0 100%;
 }
 
