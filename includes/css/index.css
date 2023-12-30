@@ -66,14 +66,14 @@ a.nav-link {
 }
 
 .highlight {
-    background: linear-gradient(120deg, #e4a0a1 0%, #e4a0a1 100%);
+    background: linear-gradient(120deg, #f72585 0%, #f72585 100%);
     background-repeat: no-repeat;
     background-size: 100% 40%;
     background-position: 0 100%;
 }
 
 .highlight-2 {
-    background: linear-gradient(120deg, #e4a0a1 0%, #e4a0a1 100%);
+    background: linear-gradient(120deg, #7209b7 0%, #7209b7 100%);
     background-repeat: no-repeat;
     background-size: 100% 40%;
     background-position: 0 90%;
