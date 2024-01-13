@@ -65,20 +65,6 @@ a.nav-link {
    font-size: 50px;
 }
 
-.highlight {
-    background: linear-gradient(120deg, #f72585 0%, #f72585 100%);
-    background-repeat: no-repeat;
-    background-size: 100% 30%;
-    background-position: 0 100%;
-}
-
-.highlight-2 {
-    background: linear-gradient(120deg, #4cc9f0 0%, #4cc9f0 100%);
-    background-repeat: no-repeat;
-    background-size: 100% 30%;
-    background-position: 0 100%;
-}
-
 .header {
     font-family: 'Sora', sans-serif;
     font-weight: 700;
