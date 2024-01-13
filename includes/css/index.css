@@ -23,6 +23,8 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     background: -webkit-linear-gradient(#C994F2, #8053A3, #792CB6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .logo-center {
