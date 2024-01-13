@@ -15,6 +15,7 @@ body {
 /* Navbar styling */
 .navbar {
     align-items: center;
+    box-shadow: none;
 }
 
 .logo {
