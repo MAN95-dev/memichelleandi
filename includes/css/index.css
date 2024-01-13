@@ -19,8 +19,7 @@ body {
 }
 
 .logo {
-    height: auto;
-    width: 60%;
+    color: red;
 }
 
 .logo-center {
