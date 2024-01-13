@@ -71,7 +71,7 @@ a.nav-link {
 
 .header {
     font-family: 'Poppins', sans-serif;
-    font-weight: 600;
+    font-weight: 900;
     color: #333;
     margin-top: 100px;
 }
@@ -157,7 +157,7 @@ a.nav-link {
 .green-block {
     width: 100%;
     height: 400px;
-    background-color: #9FC7AA;
+    background-color: #daebe8;
     padding: 50px 50px 50px;
 }
 
