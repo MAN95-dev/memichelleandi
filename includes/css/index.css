@@ -103,7 +103,7 @@ a.nav-link:hover {
 }
 
 .project-img {
-    height: 500px;
+    height: 420px;
     width: 100%;
     padding-right: 50px;
 }
@@ -187,8 +187,8 @@ a.nav-link:hover {
 }
 
 .profile-img {
-    width: auto;
-    height: 420px;
+    width: 100%;
+    height: auto;
 }
 
 .profile-row {
