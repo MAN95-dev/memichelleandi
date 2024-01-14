@@ -234,6 +234,8 @@ a.nav-link:hover {
     font-size: 25px;
 }
 
+/* Gradient styling */
+
 #grad {
     background-image: linear-gradient(#fff, #f0e5f9);
 }

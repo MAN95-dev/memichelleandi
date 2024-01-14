@@ -51,6 +51,16 @@ a.nav-link {
 }
 /* End of navbar styling */
 
+/* Gradient styling */
+
+#grad {
+    background-image: linear-gradient(#fff, #feefe2);
+}
+
+#footer-grad {
+    background-image: linear-gradient(#fff, #feefe2);
+}
+
 .contributions {
     padding: 60px 60px 60px;
 }
