@@ -89,6 +89,10 @@ a.nav-link:hover {
     margin-top: 50px;
 }
 
+.project-info {
+    padding: 50px 50px 50px 50px;
+}
+
 .project-img {
     height: 420px;
     width: auto;
