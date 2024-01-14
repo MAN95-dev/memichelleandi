@@ -48,16 +48,10 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: #81C3C9;
+    color: #792CB6;
+    text-decoration: underline;
 }
 
-.about a:hover {
-    color: #E6C2BF;
-}
-
-.resume a:hover {
-    color: #9FC7AA;
-}
 /* End of navbar styling */
 
 .intro-header {
