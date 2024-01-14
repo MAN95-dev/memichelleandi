@@ -54,6 +54,8 @@ a.nav-link:hover {
 
 /* End of navbar styling */
 
+/* Hero Intro styling */
+
 .intro-header {
    font-family: 'Playfair Display', serif;
    font-weight: 900;
@@ -70,13 +72,14 @@ a.nav-link:hover {
     margin-top: 100px;
 }
 
-.orange-block {
-    width: 100%;
-    height: 450px;
-    background-color: #feefe2;
-    border-radius: 30px;
-    margin-top: 50px;
+.sub-text {
+    letter-spacing: .2px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #333;
 }
+
+/* Project blocks styling */
 
 .sub-header {
     font-family: 'Playfair Display', serif;
@@ -84,13 +87,6 @@ a.nav-link:hover {
     color: #333;
     font-size: 35px;
     margin-top: 50px;
-}
-
-.sub-text {
-    letter-spacing: .2px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 300;
-    color: #333;
 }
 
 .project-info {
@@ -101,6 +97,16 @@ a.nav-link:hover {
     height: 420px;
     width: auto;
     margin-top: 30px;
+}
+
+/* Hammertime styling */
+
+.orange-block {
+    width: 100%;
+    height: 450px;
+    background-color: #feefe2;
+    border-radius: 30px;
+    margin-top: 50px;
 }
 
 .btn-orange {
@@ -119,6 +125,8 @@ a.nav-link:hover {
 .btn-orange:hover {
     color: #fff;
 }
+
+/* Two Dolphins styling */
 
 .btn-blue {
     width: 220px;
@@ -145,6 +153,15 @@ a.nav-link:hover {
     margin-top: 50px;
 }
 
+/* Reuseabook styling */
+
+.green-block {
+    width: 100%;
+    height: 450px;
+    background-color: #daebe8;
+    border-radius: 30px;
+}
+
 .btn-green {
     width: 220px;
     height: 60px;
@@ -162,11 +179,30 @@ a.nav-link:hover {
     color: #fff;
 }
 
-.green-block {
+/* Report Generator styling */
+
+.light-blue-block {
     width: 100%;
     height: 450px;
-    background-color: #daebe8;
+    background-color: #dcebf4;
     border-radius: 30px;
+}
+
+.btn-light-blue {
+    width: 220px;
+    height: 60px;
+    color: #fff;
+    background-color: #5FA8D3;
+    border-radius: 5px;
+    text-transform: none;
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 16px 32px;
+    display: inline-block;
+}
+
+.btn-light-blue:hover {
+    color: #fff;
 }
 
 /* Style the video: 100% width and height to cover the entire window */
