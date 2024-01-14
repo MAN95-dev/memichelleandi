@@ -121,6 +121,10 @@ a.nav-link:hover {
     display: inline-block;
 }
 
+.btn-orange:hover {
+    color: #fff;
+}
+
 .btn-blue {
     width: 220px;
     height: 60px;
@@ -157,6 +161,10 @@ a.nav-link:hover {
     border-radius: 12px;
     padding: 16px 32px;
     display: inline-block;
+}
+
+.btn-green:hover {
+    color: #fff;
 }
 
 .green-block {
