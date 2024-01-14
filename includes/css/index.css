@@ -175,8 +175,8 @@ a.nav-link:hover {
 }
 
 .profile-img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 450px;
 }
 
 .profile-row {
