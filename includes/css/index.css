@@ -134,6 +134,10 @@ a.nav-link:hover {
     display: inline-block;
 }
 
+.btn-blue:hover {
+    color: #fff;
+}
+
 .blue-block {
     width: 100%;
     height: 450px;
