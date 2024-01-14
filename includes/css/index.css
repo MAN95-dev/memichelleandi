@@ -47,7 +47,7 @@ a.nav-link {
     color: #4f4f4f;
 }
 
-.projects a:hover {
+a.nav-link:hover {
     color: #81C3C9;
 }
 
