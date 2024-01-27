@@ -64,17 +64,6 @@ a.nav-link:hover {
     background-image: linear-gradient(#fff, #d9e9ee);
 }
 
-.contributions {
-    padding: 60px 60px 60px;
-}
-
-.blue-block {
-    width: 100%;
-    height: 650px;
-    background-color: #81C3C9;
-    padding: 60px 60px 60px;
-}
-
 .header {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
