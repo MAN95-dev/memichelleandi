@@ -73,9 +73,9 @@ a.nav-link:hover {
 
 .sub-header {
     font-family: 'Poppins', sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     color: #333;
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 50px;
     text-transform: uppercase;
 }
