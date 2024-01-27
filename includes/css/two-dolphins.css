@@ -70,6 +70,13 @@ a.nav-link:hover {
     color: #333;
 }
 
+.header-2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #333;
+    font-size: 30px;
+}
+
 .sub-header {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
