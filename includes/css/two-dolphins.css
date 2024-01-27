@@ -86,8 +86,9 @@ a.nav-link:hover {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: #333;
-    font-size: 35px;
+    font-size: 25px;
     margin-top: 50px;
+    text-transform: uppercase;
 }
 
 .process-header {
