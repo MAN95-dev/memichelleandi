@@ -76,9 +76,9 @@ a.nav-link:hover {
 }
 
 .header {
-    font-family: 'DM Serif Display', serif;
-    color: #4f4f4f;
-    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #333;
 }
 
 .process-header {
