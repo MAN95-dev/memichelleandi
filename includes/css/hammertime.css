@@ -1,8 +1,8 @@
 body {
+    font-size: 16px;
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    color: #555;
-    line-height: 1.5;
+    font-weight: 300;
+    color: #333;
 }
 
 @media screen and (min-width: 1400px) {
@@ -64,21 +64,26 @@ a.nav-link:hover {
     background-image: linear-gradient(#fff, #feefe2);
 }
 
-.contributions {
-    padding: 60px 60px 60px;
-}
-
-.pink-block {
-    width: 100%;
-    height: 650px;
-    background-color: #E6C2BF;
-    padding: 60px 60px 60px;
-}
-
 .header {
-    font-family: 'DM Serif Display', serif;
-    color: #4f4f4f;
-    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+
+.header-2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #333;
+    font-size: 25px;
+}
+
+.sub-header {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #333;
+    font-size: 20px;
+    text-transform: uppercase;
+
 }
 
 .process-header {
@@ -86,7 +91,9 @@ a.nav-link:hover {
     font-family: 'DM Serif Display', serif;
     color: #4f4f4f;
     font-size: 40px;
+    padding: 0px 0px;
 }
+
 
 .about-row {
     align-items: center;
