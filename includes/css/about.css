@@ -52,8 +52,6 @@ a.nav-link:hover {
     text-decoration: underline;
 }
 
-/* End of navbar styling */
-
 /* Hero Intro styling */
 
 .intro-header {
@@ -107,6 +105,13 @@ a.nav-link:hover {
     background-image: linear-gradient(#fff, #f0e5f9);
 }
 
+/* About me styling */
+
+.pink-block {
+    background-color: #FFEAF7;
+}
+
+
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
 
@@ -114,24 +119,11 @@ a.nav-link:hover {
 
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
-    .intro-header {
-        margin-top: 50px;
-        font-family: 'DM Serif Display', serif;
-        line-height: 1.5;
-        color: #4f4f4f;
-        font-size:40px;
-    }
+
 }
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
-    .orange-block {
-        width: 100%;
-        height: auto;
-        background-color: #E6C2BF;
-        padding: 30px 30px 30px;
-    }
-
     .logo {
         height: auto;
         width: 100%;
