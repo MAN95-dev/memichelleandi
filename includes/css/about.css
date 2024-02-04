@@ -102,7 +102,7 @@ a.nav-link:hover {
 }
 
 #skills-grad {
-    background-image: linear-gradient(#f0e5f9), #fff;
+    background-image: linear-gradient(#f0e5f9, #fff);
 }
 
 #footer-grad {
