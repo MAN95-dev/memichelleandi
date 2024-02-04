@@ -145,6 +145,7 @@ a.nav-link:hover {
 .icons {
     display: flex;
     align-items: center;
+    color: #333;
 }
 
 .material-symbols-outlined {
