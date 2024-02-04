@@ -101,6 +101,10 @@ a.nav-link:hover {
     background-image: linear-gradient(#fff, #f0e5f9);
 }
 
+#skills-grad {
+    background-image: linear-gradient(#f0e5f9), #fff;
+}
+
 #footer-grad {
     background-image: linear-gradient(#fff, #f0e5f9);
 }
