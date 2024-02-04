@@ -70,8 +70,9 @@ a.nav-link:hover {
     margin-top: 100px;
 }
 
-.sub-text {
+.about-text {
     letter-spacing: .2px;
+    line-height: 1.2;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     color: #333;
