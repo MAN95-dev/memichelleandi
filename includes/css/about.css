@@ -144,11 +144,12 @@ a.nav-link:hover {
 
 .icons {
     display: flex;
+    align-items: center;
 }
 
 .material-symbols-outlined {
     font-size: 40px;
-    color: 0094FF;
+    background-color: 0094FF;
 }
 
 /* Get in touch section */
