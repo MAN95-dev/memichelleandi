@@ -147,7 +147,8 @@ a.nav-link:hover {
 }
 
 .material-symbols-outlined {
-    font-size: 40px;
+    font-size: 25px;
+    color: 0094FF;
 }
 
 /* Media query for smaller screen sizes */
