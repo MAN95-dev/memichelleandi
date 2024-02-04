@@ -79,6 +79,23 @@ a.nav-link:hover {
     color: #333;
 }
 
+.profile-img {
+    width: 100%;
+    height: auto;
+}
+
+.profile-row {
+    align-items: center;
+    margin-top: 50px;
+}
+
+.bio {
+    margin-bottom: 60px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
 
