@@ -146,6 +146,9 @@ a.nav-link:hover {
     display: flex;
 }
 
+.material-symbols-outlined {
+    font-size: 40px;
+}
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
