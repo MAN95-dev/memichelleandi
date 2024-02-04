@@ -70,9 +70,8 @@ a.nav-link:hover {
     margin-top: 100px;
 }
 
-.about-text {
+.sub-text {
     letter-spacing: .2px;
-    line-height: 1.2;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     color: #333;
@@ -120,6 +119,14 @@ a.nav-link:hover {
     color: #333;
     font-size: 35px;
     margin-top: 50px;
+}
+
+.about-text {
+    letter-spacing: .2px;
+    line-height: 1.2;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #333;
 }
 
 .about-info {
