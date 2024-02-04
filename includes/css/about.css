@@ -6,10 +6,10 @@ body {
 }
 
 @media screen and (min-width: 1400px) {
-    .container {
-        padding-left: 100px;
-        padding-right: 100px;
-    }
+.container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
 }
 
 /* Navbar styling */
@@ -54,60 +54,29 @@ a.nav-link:hover {
 
 /* End of navbar styling */
 
+/* Hero Intro styling */
+
 .intro-header {
-   margin-top: 110px;
-   font-family: 'DM Serif Display', serif;
+   font-family: 'Playfair Display', serif;
+   font-weight: 900;
    line-height: 1.5;
-   color: #4f4f4f;
+   color: #333;
    z-index: 5;
-   font-size: 60px;
+   font-size: 50px;
 }
 
 .header {
-    font-family: 'DM Serif Display', serif;
-    color: #4f4f4f;
-}
-
-.orange-block {
-    width: 100%;
-    height: auto;
-    background-color: #E6C2BF;
-    padding: 50px 50px 50px;
-}
-
-.sub-header {
-    font-family: 'DM Serif Display', serif;
-    color: #4f4f4f;
-    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #333;
+    margin-top: 100px;
 }
 
 .sub-text {
-    font-size: 16px;
-}
-
-/* Style the video: 100% width and height to cover the entire window */
-#myVideo {
-    max-width: 100%;
-  }
-
-/* Add some content at the bottom of the video/page */
-.content {
-    color: #f1f1f1;
-    width: 100%;
-    bottom: 0;
-  }
-
-.footer-content {
-    align-items: center;
-}
-
-.profile-img {
-    width: 100%;
-    height: auto;
-}
-
-.profile-row {
-    align-items: center;
+    letter-spacing: .2px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #333;
 }
 
 /* Media query for smaller screen sizes */
