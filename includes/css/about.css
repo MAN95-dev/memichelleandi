@@ -82,12 +82,12 @@ a.nav-link:hover {
 .profile-img {
     width: 100%;
     height: auto;
+    margin-bottom: 30px;
 }
 
 .profile-row {
     align-items: center;
     margin-top: 90px;
-    margin-bottom: 20px;
 }
 
 .bio {
