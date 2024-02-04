@@ -86,7 +86,8 @@ a.nav-link:hover {
 
 .profile-row {
     align-items: center;
-    margin-top: 100px;
+    margin-top: 90px;
+    margin-bottom: 20px;
 }
 
 .bio {
