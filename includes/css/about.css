@@ -137,6 +137,16 @@ a.nav-link:hover {
     padding: 30px 50px 30px 50px;
 }
 
+/* Design icons styling */
+
+
+.icon-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
 /* Skills section styling */
 
 .header-2 {
