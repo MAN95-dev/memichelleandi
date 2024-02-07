@@ -266,6 +266,11 @@ a.nav-link:hover {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
+    /* Navbar styling */
+    a.nav-link {
+        margin-left: 0px;
+    }
+
     .orange-block {
         width: 100%;
         height: auto;
