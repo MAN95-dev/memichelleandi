@@ -259,8 +259,8 @@ a.nav-link:hover {
         font-size: 40px;
      }
 
-    .navbar>.container {
-        display: ;
+     a.nav-link {
+        margin-left: 0px;
     }
 }
 
