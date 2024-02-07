@@ -267,8 +267,17 @@ a.nav-link:hover {
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
     /* Navbar styling */
+
     a.nav-link {
         margin-left: 0px;
+    }
+
+    /* Hero Intro styling */
+
+    .intro-header {
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+        font-size: 30px;
     }
 
     .orange-block {
