@@ -251,14 +251,7 @@ a.nav-link:hover {
 
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
-    .intro-header {
-        margin-top: 50px;
-        font-family: 'DM Serif Display', serif;
-        line-height: 1.5;
-        color: #4f4f4f;
-        font-size: 40px;
-     }
-
+    
      a.nav-link {
         margin-left: 0px;
     }
@@ -280,9 +273,11 @@ a.nav-link:hover {
     /* Hero Intro styling */
 
     .intro-header {
+        margin-top: 10px;
         font-family: 'Playfair Display', serif;
         font-weight: 900;
         font-size: 30px;
+        line-height: 1;
     }
 
     .bio {
