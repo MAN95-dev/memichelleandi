@@ -239,15 +239,10 @@ p.icon-center {
     /* About me styling */
 
     .pink-block {
-        border-radius: 30px;
         margin-top: 20px;
-        background-color: #FFEAF7;
     }
 
     .sub-header {
-        font-family: 'Playfair Display', serif;
-        font-weight: 900;
-        color: #333;
         font-size: 30px;
         margin-top: 50px;
     }
@@ -262,5 +257,30 @@ p.icon-center {
 
     .about-info {
         padding: 15px 15px 15px 15px;
+    }
+
+    /* Design icons styling */
+
+    .icon-img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    /* Skills section styling */
+
+    .header-2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        color: #333;
+        font-size: 25px;
+    }
+
+    .icons {
+        display: flex;
+        align-items: center;
+        color: #333;
+        margin-top: 10px;
     }
 }
