@@ -203,6 +203,11 @@ p.icon-center {
 
     /* Hero Intro styling */
 
+    .profile-row {
+        align-items: center;
+        margin-top: 10px;
+    }
+
     .intro-header {
         font-family: 'Playfair Display', serif;
         font-weight: 900;
