@@ -246,7 +246,53 @@ a.nav-link:hover {
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    a.nav-link {
+        margin-left: 0px;
+    }
 
+       /* Report Generator styling */
+
+       .light-blue-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-light-blue {
+        margin-bottom: 20px;
+    }
+
+    /* Reuseabook styling */
+
+    .green-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-green {
+        margin-bottom: 20px;
+    }
+
+    /* Two Dolphins styling */
+
+    .blue-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-blue {
+        margin-bottom: 20px;
+    }
+
+    /* Hammertime styling */
+
+    .orange-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-orange {
+        margin-bottom: 20px;
+    }
 }
 
 /* Media query for tablets */
