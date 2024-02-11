@@ -419,6 +419,7 @@ a.nav-link:hover {
         height: 250px;
         width: auto;
         margin-top: 30px;
+        padding-left: 0px;
     }
 
     /* Report Generator styling */
