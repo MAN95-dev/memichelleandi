@@ -335,8 +335,25 @@ a.nav-link:hover {
         display: inline-block;
     }
 
-    .btn-light-blue:hover {
-        color: #fff;
+    /* Reuseabook styling */
+
+    .green-block {
+        width: 100%;
+        height: auto;
+        background-color: #daebe8;
+        border-radius: 30px;
     }
 
+    .btn-green {
+        width: 220px;
+        height: 60px;
+        color: #fff;
+        background-color: #077661;
+        border-radius: 5px;
+        text-transform: none;
+        font-size: 18px;
+        border-radius: 12px;
+        padding: 16px 32px;
+        display: inline-block;
+    }
 }
