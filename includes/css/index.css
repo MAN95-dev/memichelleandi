@@ -307,9 +307,62 @@ a.nav-link:hover {
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
 
-     a.nav-link {
+    a.nav-link {
         margin-left: 0px;
     }
+
+    /* Project blocks styling */
+
+    .project-img {
+        height: 300px;
+        width: auto;
+        margin-top: 30px;
+        padding-left: 50px;
+    }
+
+    /* Report Generator styling */
+
+    .light-blue-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-light-blue {
+        margin-bottom: 20px;
+    }
+
+    /* Reuseabook styling */
+
+    .green-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-green {
+        margin-bottom: 20px;
+    }
+
+    /* Two Dolphins styling */
+
+    .blue-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-blue {
+        margin-bottom: 20px;
+    }
+
+    /* Hammertime styling */
+
+    .orange-block {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn-orange {
+        margin-bottom: 20px;
+    }x
 }
 
 /* Media query for mobile devices */
