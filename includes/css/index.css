@@ -276,7 +276,7 @@ a.nav-link:hover {
         font-family: 'Playfair Display', serif;
         font-weight: 900;
         font-size: 30px;
-        line-height: 1.1;
+        line-height: 1.2;
     }
 
     .bio {
@@ -293,28 +293,50 @@ a.nav-link:hover {
         margin-top: 50px;
     }
 
-    .orange-block {
-        width: 100%;
-        height: auto;
-        background-color: #E6C2BF;
-        padding: 30px 30px 30px;
+    /* Project blocks styling */
+
+    .sub-header {
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+        color: #333;
+        font-size: 35px;
+        margin-top: 50px;
     }
 
-    .blue-block {
-        width: 100%;
-        height: auto;
-        background-color: #81C3C9;
-        padding: 30px 30px 30px;
+    .project-info {
+        padding: 10px 10px 10px 10px;
     }
 
-     .project-img {
-        height: auto;
-        width: 100%;
+    .project-img {
+        height: 250px;
+        width: auto;
+        margin-top: 30px;
     }
 
-    .profile-img {
+    /* Report Generator styling */
+
+    .light-blue-block {
         width: 100%;
         height: auto;
-        margin-bottom: 20px;
+        background-color: #dcebf4;
+        border-radius: 30px;
     }
+
+    .btn-light-blue {
+        width: 220px;
+        height: 60px;
+        color: #fff;
+        background-color: #5FA8D3;
+        border-radius: 5px;
+        text-transform: none;
+        font-size: 18px;
+        border-radius: 12px;
+        padding: 16px 32px;
+        display: inline-block;
+    }
+
+    .btn-light-blue:hover {
+        color: #fff;
+    }
+
 }
