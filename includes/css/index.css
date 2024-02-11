@@ -412,14 +412,14 @@ a.nav-link:hover {
     }
 
     .project-info {
-        padding: 30px 30px 30px 30px;
+        padding: 15px 15px 15px 15px;
     }
 
     .project-img {
         height: 250px;
         width: auto;
         margin-top: 30px;
-        padding-left: 30px;
+        padding-left: 15px;
     }
 
     /* Report Generator styling */
