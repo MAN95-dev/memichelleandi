@@ -267,7 +267,7 @@ a.nav-link:hover {
     /* Navbar styling */
 
     a.nav-link {
-        margin-left: 0px;
+        margin-left: none;
     }
 
     /* Hero Intro styling */
