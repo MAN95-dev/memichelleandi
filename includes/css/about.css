@@ -189,7 +189,12 @@ p.icon-center {
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
-
+    .profile-img {
+        width: 70%;
+        height: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
 }
 
 /* Media query for tablets */
