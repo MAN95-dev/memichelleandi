@@ -198,7 +198,7 @@ p.icon-center {
     /* Navbar styling */
 
     a.nav-link {
-        margin-left: none;
+        margin-left: 0px;
     }
 
     /* Hero Intro styling */
