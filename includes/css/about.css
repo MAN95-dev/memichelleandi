@@ -157,7 +157,7 @@ a.nav-link:hover {
 }
 
 .skills-header {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 700;
     color: #333;
     font-size: 25px;
@@ -281,7 +281,7 @@ p.icon-center {
 
     .skills-header {
         font-size: 30px;
-        margin-top: 20px;
+        margin-top: 50px;
         margin-bottom: 20px;
     }
 
