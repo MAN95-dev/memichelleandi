@@ -190,22 +190,38 @@ p.icon-center {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
-    .logo {
-        height: auto;
-        width: 100%;
+    .container {
+        padding-left: 25px;
+        padding-right: 25px;
     }
+
+    /* Navbar styling */
+
+    a.nav-link {
+        margin-left: none;
+    }
+
+    /* Hero Intro styling */
 
     .intro-header {
-        margin-top: 50px;
-        font-family: 'DM Serif Display', serif;
-        line-height: 1.5;
-        color: #4f4f4f;
-        font-size:40px;
-     }
-
-     .profile-img {
-        width: 100%;
-        height: auto;
-        margin-bottom: 20px;
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 1.2;
     }
+
+    .bio {
+        margin-bottom: 20px;
+        font-weight: 300;
+        font-family: 'Poppins', sans-serif;
+        font-size: 20px;
+    }
+
+    .header {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        color: #333;
+        margin-top: 50px;
+    }
+
 }
