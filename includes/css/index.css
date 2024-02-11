@@ -266,6 +266,11 @@ a.nav-link:hover {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
     /* Navbar styling */
 
     a.nav-link {
