@@ -257,6 +257,15 @@ p.icon-center {
         margin-right: auto;
     }
 
+    /* Design icons styling */
+
+    .icon-img {
+        width: 50%;
+        height: auto;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
 }
 
 /* Media query for mobile devices */
