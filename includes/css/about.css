@@ -206,6 +206,16 @@ p.icon-center {
         margin-top: 10px;
         margin-bottom: 40px;
     }
+
+    /* Design icons styling */
+
+    .icon-img {
+        width: 80%;
+        height: auto;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
 }
 
 /* Media query for tablets */
