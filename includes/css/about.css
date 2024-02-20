@@ -189,13 +189,15 @@ p.icon-center {
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    a.nav-link {
+        margin-left: 0px;
+    }
+
     .profile-img {
         width: 70%;
         height: auto;
-        margin-top: 40px;
+        margin-top: 10px;
         margin-bottom: 40px;
-        display: flex;
-        justify-content: center;
     }
 }
 
