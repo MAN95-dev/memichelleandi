@@ -221,19 +221,16 @@ p.icon-center {
 
     /* Skills section styling */
 
-.header-2 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    color: #333;
-    font-size: 25px;
-}
+    .skills-header {
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+        color: #333;
+        font-size: 35px;
+    }
 
-.skills-header {
-    font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    color: #333;
-    font-size: 35px;
-}
+    .icons {
+        margin-top: 40px;
+    }
 
 }
 
