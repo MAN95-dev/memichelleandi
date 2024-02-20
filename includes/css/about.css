@@ -201,12 +201,10 @@ p.icon-center {
     }
 
     .profile-img {
-        width: 70%;
-        height: auto;
+        width: auto;
+        height: 60%;
         margin-top: 10px;
         margin-bottom: 40px;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     /* Design icons styling */
