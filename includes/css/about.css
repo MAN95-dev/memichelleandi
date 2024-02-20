@@ -193,6 +193,13 @@ p.icon-center {
         margin-left: 0px;
     }
 
+    /* Hero Intro styling */
+
+    .profile-row {
+        align-items: center;
+        margin-top: 50px;
+    }
+
     .profile-img {
         width: 70%;
         height: auto;
