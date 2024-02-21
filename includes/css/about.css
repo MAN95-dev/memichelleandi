@@ -169,6 +169,7 @@ a.nav-link:hover {
     display: flex;
     align-items: center;
     color: #333;
+    margin-top: 30px;
 }
 
 p.icon-center {
