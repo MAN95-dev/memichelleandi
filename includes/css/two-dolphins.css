@@ -114,7 +114,8 @@ a.nav-link:hover {
     height: 550px;
 }
 
-.role-margin {
+.role-margin,
+.process-margin {
     margin-top: 50px;
 }
 
@@ -161,11 +162,13 @@ a.nav-link:hover {
         height: 225px;
     }
 
-    .role-margin {
+    .role-margin,
+    .process-margin {
         margin-top: 0px;
     }
 
-    .header-2 {
-        margin-top: 10px;
+    .header-2,
+    .sub-header {
+        margin-top: 20px;
     }
 }
