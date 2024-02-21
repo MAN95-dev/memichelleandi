@@ -64,6 +64,8 @@ a.nav-link:hover {
     background-image: linear-gradient(#fff, #d9e9ee);
 }
 
+/* Header styling */
+
 .header {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
@@ -98,11 +100,6 @@ a.nav-link:hover {
     align-items: center;
 }
 
-.problem-padding, 
-.goal-padding {
-    padding: 0px 60px 0px;
-}
-
 .userflow {
     width: 60%;
     height: auto;
@@ -117,13 +114,8 @@ a.nav-link:hover {
     height: 550px;
 }
 
-.margin-row {
-    margin-top: 80px; 
-    margin-bottom: 80px;
-}
-
-.why-padding {
-    padding: 0px 60px 0px;
+.role-margin {
+    margin-top: 50px;
 }
 
 /* Media query for smaller screen sizes */
@@ -133,26 +125,6 @@ a.nav-link:hover {
 
 /* Media query for tablets */
 @media only screen and (max-width: 768px) {
-    .blue-block {
-        margin-top: 30px;
-        width: 100%;
-        height: auto;
-        background-color: #81C3C9;
-        padding: 30px 30px 30px;
-    }
-
-    .contributions {
-        padding: 30px 30px 30px;
-    }
-
-    .problem-padding, 
-    .goal-padding {
-        padding: 0px 30px 0px;
-    }
-
-    .why-padding {
-        padding: 0px 30px 0px;
-    }
 
     .userflow {
         width: 100%;
