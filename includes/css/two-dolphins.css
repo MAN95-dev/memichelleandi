@@ -164,4 +164,8 @@ a.nav-link:hover {
     .role-margin {
         margin-top: 0px;
     }
+
+    .header-2 {
+        margin-top: 10px;
+    }
 }
