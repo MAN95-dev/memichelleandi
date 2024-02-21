@@ -176,9 +176,9 @@ a.nav-link:hover {
     /* Navbar styling */
 
     a.nav-link {
-        margin-left: none;
+        margin-left: 0px;
     }
-    
+
     .header {
         font-family: 'DM Serif Display', serif;
         color: #4f4f4f;
