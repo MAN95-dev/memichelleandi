@@ -167,6 +167,18 @@ a.nav-link:hover {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 667px) {
+
+    .container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    /* Navbar styling */
+
+    a.nav-link {
+        margin-left: none;
+    }
+    
     .header {
         font-family: 'DM Serif Display', serif;
         color: #4f4f4f;
