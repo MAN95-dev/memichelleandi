@@ -160,4 +160,8 @@ a.nav-link:hover {
         width: 350px; 
         height: 225px;
     }
+
+    .role-margin {
+        margin-top: 0px;
+    }
 }
