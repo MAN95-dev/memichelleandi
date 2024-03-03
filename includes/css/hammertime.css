@@ -102,14 +102,8 @@ a.nav-link:hover {
     padding: 0px 0px;
 }
 
-
 .about-row {
     align-items: center;
-}
-
-.problem-padding, 
-.goal-padding {
-    padding: 0px 60px 0px;
 }
 
 .userflow {
@@ -126,13 +120,12 @@ a.nav-link:hover {
     height: 550px;
 }
 
-.margin-row {
-    margin-top: 80px; 
-    margin-bottom: 80px;
-}
-
-.why-padding {
-    padding: 0px 60px 0px;
+.role-margin,
+.process-margin,
+.why-margin,
+.interview-margin,
+.table-margin {
+    margin-top: 50px;
 }
 
 /* Media query for smaller screen sizes */
