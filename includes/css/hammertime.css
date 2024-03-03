@@ -130,7 +130,15 @@ a.nav-link:hover {
 
 /* Media query for smaller screen sizes */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .prototype {
+        width: 700px; 
+        height: 400px;
+    }
 
+    .hero-img {
+        width: 100%;
+        object-fit: cover;
+    }
 }
 
 /* Media query for tablets */
