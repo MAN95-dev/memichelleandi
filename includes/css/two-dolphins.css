@@ -65,6 +65,10 @@ a.nav-link:hover {
 }
 
 /* Header styling */
+.hero-img {
+    width: 100%;
+    padding: 0px 0px;
+}
 
 .header {
     font-family: 'Poppins', sans-serif;
