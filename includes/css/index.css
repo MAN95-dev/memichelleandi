@@ -309,10 +309,9 @@ a.nav-link:hover {
     /* Project blocks styling */
 
     .project-img {
-        height: 500px;
+        height: 400px;
         width: auto;
-        margin-top: 30px;
-        padding-left: 30px;
+        margin-top: 50px;
     }
 }
 
