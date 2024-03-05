@@ -80,9 +80,10 @@ a.nav-link:hover {
 
 .header-2 {
     font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+    font-weight: 500;
     color: #333;
-    font-size: 25px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 .sub-header {
